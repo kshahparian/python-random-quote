@@ -1,5 +1,5 @@
 def main():
-  print("Keep it logically awesome. kourosh")
+  print("Keep it logically awesome. kourosh.s")
 
   #f = open("quotes.txt")
   #quotes = f.readlines()
